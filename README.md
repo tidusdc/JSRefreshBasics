@@ -1,5 +1,5 @@
 # JSRefreshBasics
-This are just some test questions and exercises I have gone through to refresh my knowledge in Javascript and JS principles.
+These are just some test questions and exercises I have gone through to refresh my knowledge in Javascript and JS principles.
 
 I am not claiming any of this work to be my own.
 
