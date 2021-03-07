@@ -5,7 +5,7 @@ I am not claiming any of this work to be my own.
 
 Many of these questions have been obtained from other developers and instructors on the web.
 
-Many of the answers are my own variations, but I am not claiming any of them as my own property. These are simply my attempts to answer sample questions and learn these principles.
+Many of the answers are my own variations, but I am not claiming any of them as my own property. These are simply my attempts to answer sample questions and learn these principles. The comments in the files are my attempts at explaining and documenting what is happening in the code.
 
 I have answered them to the best of my ability, and this repo is simply to track my progress with refreshing my knowledge with JS.
 
