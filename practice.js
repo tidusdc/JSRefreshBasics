@@ -1,4 +1,4 @@
-// PRACTICE RUN 1
+// PRACTICE RUN 1 test
 var letterArray = [ 'a', 'b', 'c', 'd', 'e' ];
 
 letterArray.push("end");
