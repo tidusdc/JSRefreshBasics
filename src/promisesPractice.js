@@ -1,6 +1,3 @@
-// Async Await JavaScript ES7
-
-
 // Practice with Promises
 
 let promiseToCleanTheDishes = new Promise(function(resolve, reject) {
